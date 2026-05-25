@@ -29,7 +29,7 @@ A machine learning pipeline that predicts hourly stock price movements for multi
 
 ## Installation & Usage
 
-### 🍎 macOS
+### macOS
 
 **1. Clone the repo**
 ```bash
@@ -78,7 +78,7 @@ python run.py --ticker MSFT --lookback 200
 
 ---
 
-### 🪟 Windows
+###  Windows
 
 **1. Clone the repo**
 ```cmd
